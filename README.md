@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Qi Ter, a self-taught developer currently enrolled in 42 Kuala Lumpur. </h2>
+<h2 align="left">Hello, I'm Qi Ter! Welcome to my GitHub profile. </h2>
 
 ###
 
